@@ -1,5 +1,6 @@
 //Every Java file should start with what package it's in! This ussually means a folder.
-package edu.csumb.Webstore.repositories;
+package edu.csumb.Webstore.repository;
+
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 import edu.csumb.Webstore.model.Product;
